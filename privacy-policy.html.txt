@@ -1,0 +1,94 @@
+• New Note •
+
+- - - - -
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Instant Form for Facebook Ad</h1>
+    <p>Last updated: [Date]</p>
+
+    <h2>1. Introduction</h2>
+    <p>Welcome to The Seasons Art Class Bexleyheath ("we", "our", "us"). We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you interact with our Instant Form on Facebook, in accordance with the UK General Data Protection Regulation (UK GDPR).</p>
+
+    <h2>2. Information We Collect</h2>
+    <p>When you fill out our Instant Form on Facebook, we may collect the following information:</p>
+    <ul>
+        <li><strong>Personal Information</strong>: Name, email address, phone number, and any other information you provide in the form.</li>
+        <li><strong>Technical Information</strong>: Information about your device and interaction with the form, including IP address, browser type, and operating system.</li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+    <p>We use the information we collect for the following purposes:</p>
+    <ul>
+        <li><strong>Communication</strong>: To contact you regarding your inquiry or request.</li>
+        <li><strong>Marketing</strong>: To provide you with updates, promotional offers, and other information related to our products and services.</li>
+        <li><strong>Improvement</strong>: To improve our products, services, and marketing efforts.</li>
+        <li><strong>Compliance</strong>: To comply with applicable laws and regulations.</li>
+    </ul>
+
+    <h2>4. Legal Basis for Processing Your Information</h2>
+    <p>Under the UK GDPR, we rely on the following legal bases for processing your information:</p>
+    <ul>
+        <li><strong>Consent</strong>: You have given clear consent for us to process your personal information for specific purposes.</li>
+        <li><strong>Contract</strong>: Processing is necessary for a contract we have with you, or because you have asked us to take specific steps before entering into a contract.</li>
+        <li><strong>Legal Obligation</strong>: Processing is necessary for us to comply with the law.</li>
+    </ul>
+
+    <h2>5. Sharing Your Information</h2>
+    <p>We do not sell or rent your personal information to third parties. However, we may share your information in the following circumstances:</p>
+    <ul>
+        <li><strong>Service Providers</strong>: With third-party service providers who perform services on our behalf, such as email marketing and data analysis.</li>
+        <li><strong>Legal Obligations</strong>: If required by law or in response to valid requests by public authorities.</li>
+        <li><strong>Business Transfers</strong>: In connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business.</li>
+    </ul>
+
+    <h2>6. Data Security</h2>
+    <p>We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. However, no internet or email transmission is ever fully secure or error-free.</p>
+
+    <h2>7. International Data Transfers</h2>
+    <p>Your information may be transferred to and processed in countries outside of the UK. We will ensure that any international transfers of your personal data are subject to appropriate safeguards in accordance with UK GDPR requirements.</p>
+
+    <h2>8. Your Rights</h2>
+    <p>Under the UK GDPR, you have the following rights regarding your personal information:</p>
+    <ul>
+        <li><strong>Access</strong>: The right to request access to your personal information.</li>
+        <li><strong>Correction</strong>: The right to request correction of inaccurate or incomplete personal information.</li>
+        <li><strong>Deletion</strong>: The right to request deletion of your personal information.</li>
+        <li><strong>Objection</strong>: The right to object to the processing of your personal information.</li>
+        <li><strong>Portability</strong>: The right to request the transfer of your personal information to another party.</li>
+    </ul>
+    <p>To exercise these rights, please contact us at [Your Contact Information].</p>
+
+    <h2>9. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We recommend you review this Privacy Policy periodically for any changes.</p>
+
+    <h2>10. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy or our data practices, please contact us:</p>
+    <ul>
+        <li><strong>Email</strong>: theseasonsartclassbexleyheath@gmail.com</li>
+        <li><strong>Mail</strong>: 420A Long Lane, Bexleyheath, DA7 5JW</li>
+        <li><strong>Data Protection Officer</strong>: L.Dixon</li>
+    </ul>
+
+    <p>By submitting your information through our Instant Form, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.</p>
+</body>
+</html>
